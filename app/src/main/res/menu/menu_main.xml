@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.royalteck.progtobi.travelmantics.DealActivity">
+    <item
+        android:id="@+id/save"
+        android:title="@string/save"
+        app:showAsAction="always" />
+
+
+    <item
+        android:id="@+id/delete"
+        android:title="@string/delete"
+        app:showAsAction="never" />
+</menu>
